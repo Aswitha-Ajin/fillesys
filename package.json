@@ -1,0 +1,17 @@
+{
+  "name": "filesystem",
+  "version": "1.0.0",
+  "description": "dar",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indexjs",
+    "test": "dsf"
+  },
+  "author": "aswitha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs-extra": "^10.1.0"
+  }
+}
